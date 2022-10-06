@@ -10,7 +10,7 @@ import (
 
 
 
-func main() {
+func main(){
 	var (
 		result []*map[string]interface{}
 		err    error
